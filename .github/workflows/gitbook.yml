@@ -11,12 +11,12 @@ jobs:
    
     steps:
     - name: Checkout
-        uses: actions/checkout@v2
+      uses: actions/checkout@v2
     
-	- name: Setup Node.js environment
-        uses: actions/setup-node@v1
-        with:
-          node-version: '14'
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14'
 
     - name: Install Gitbook
       run: npm install -g gitbook-cli 
