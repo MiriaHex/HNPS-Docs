@@ -1,12 +1,13 @@
 # Table of contents
 
 * [👋 欢迎!](README.md)
+* [🙏 赞助名单一览](zan-zhu-ming-dan-yi-lan.md)
 
 ## 进服方式
 
 * [Java](jin-fu-fang-shi/java.md)
 * [基岩版](jin-fu-fang-shi/ji-yan-ban.md)
-* [如何获取服务器IP?](jin-fu-fang-shi/ru-he-huo-qu-fu-wu-qi-ip.md)
+* [疑难解答](jin-fu-fang-shi/yi-nan-jie-da.md)
 
 ## 插件
 
