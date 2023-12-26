@@ -12,6 +12,8 @@
 ## 插件
 
 * [服务器插件一览](cha-jian/fu-wu-qi-cha-jian-yi-lan.md)
+* [AuthMe](cha-jian/authme.md)
+* [CoreProtect](cha-jian/coreprotect.md)
 
 ***
 
