@@ -17,6 +17,7 @@
 
 ***
 
-* [开源许可说明](kai-yuan-xu-ke-shuo-ming.md)
-* [友情链接](you-qing-lian-jie.md)
-* [鸣谢](ming-xie.md)
+* [🤝 帮助我们扩充Wiki](bang-zhu-wo-men-kuo-chong-wiki.md)
+* [📔 开源许可说明](kai-yuan-xu-ke-shuo-ming.md)
+* [🌐 友情链接](you-qing-lian-jie.md)
+* [🙏 鸣谢](ming-xie.md)

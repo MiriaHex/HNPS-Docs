@@ -50,7 +50,9 @@ example.com:port
 
 ## 绑定邮箱
 
+{% hint style="danger" %}
 #### 我们强烈建议你绑定邮箱，因为这将是你找回服务器账号密码的唯一方式
+{% endhint %}
 
 使用以下指令绑定邮箱
 
