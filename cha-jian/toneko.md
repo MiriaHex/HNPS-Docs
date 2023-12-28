@@ -6,7 +6,7 @@ description: 一个为服务器添加了有趣功能的小插件
 
 ### 命令¹
 
-{% code fullWidth="true" %}
+{% code fullWidth="false" %}
 ```
 #获取帮助
 /toneko help
