@@ -25,3 +25,9 @@ LyrinYy
 Haruyama1204127
 
 xinFurld
+
+***
+
+## 支持我们
+
+[在本文档的GitHub储存库上给个Star!](https://github.com/NaOH-HaN/HNPS-Docs)
