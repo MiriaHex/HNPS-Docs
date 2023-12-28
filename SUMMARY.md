@@ -14,6 +14,13 @@
 * [服务器插件一览](cha-jian/fu-wu-qi-cha-jian-yi-lan.md)
 * [AuthMe](cha-jian/authme.md)
 * [CoreProtect](cha-jian/coreprotect.md)
+* [EssentialsX](cha-jian/essentialsx.md)
+* [eBackup](cha-jian/ebackup.md)
+* [Geyser](cha-jian/geyser.md)
+* [InventoryRollbackPlus](cha-jian/inventoryrollbackplus.md)
+* [Residence](cha-jian/residence.md)
+* [Slimefun](cha-jian/slimefun.md)
+* [toNeko](cha-jian/toneko.md)
 
 ***
 

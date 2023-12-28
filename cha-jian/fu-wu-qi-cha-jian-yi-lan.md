@@ -7,7 +7,7 @@ description: 下面列出了本服务器所使用的部分插件,排名不分先
 * AuthMe
 * CoreProtect
 * eBackup
-* EssentialX
+* EssentialsX
 * Geyser - Spigot
 * Geyser Hack
 * InventoryRollBackPlus
