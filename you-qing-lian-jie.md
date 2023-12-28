@@ -10,5 +10,11 @@
 
 [CoreProtect官方文档](https://docs.coreprotect.net/)
 
+[CoreProtect 的Mineplugin页面](https://mineplugin.org/CoreProtect)
+
 [Geyser官方Wiki](https://wiki.geysermc.org/)
+
+[EssentialsX的Mineplugin页面](https://mineplugin.org/Essentials)
+
+[Slimefun的非官方中文Wiki](https://slimefun-wiki.guizhanss.cn/Slimefun-in-a-nutshell)
 

@@ -4,7 +4,7 @@ description: Welcome to HNPS Docs!
 
 # 👋 欢迎!
 
-HaN's Private Server Docs (以下简称HNPS Docs) 是由 NaOH\_HaN 在 简幻幻 上搭建的一个 Minecraft 服务器
+HaN's Private Server Docs (以下简称HNPS Docs) 是由 Na 在 简幻幻 上搭建的一个 Minecraft 服务器
 
 单击侧栏的分类查看其它选项,或是在下面快速查阅服务器信息
 

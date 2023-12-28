@@ -106,6 +106,12 @@ description: Essentials的分支，继续维护已经停更的Essentials
 /getpos
 ```
 
+## 切换“暂时离开”状态
+
+```
+/afk
+```
+
 ***
 
 ## 友情链接

@@ -35,3 +35,5 @@ description: CoreProtect是一款快速高效的方块操作历史记录的Bukki
 ## 友情链接
 
 [CoreProtect官方文档](https://docs.coreprotect.net/)
+
+[CoreProtect的Mineplugin页面](https://mineplugin.org/CoreProtect)

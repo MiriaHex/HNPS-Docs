@@ -2,7 +2,7 @@
 
 ### 如果你想帮助我们完善Wiki,请访问
 
-### [本Wiki的GitHub仓库页面](https://github.com/NaOH-HaN/HNPS-Docs) ，并提交Issues
+### [本Wiki的GitHub仓库页面](https://github.com/NaOH-HaN/HNPS-Docs) 提交Issues
 
 
 
