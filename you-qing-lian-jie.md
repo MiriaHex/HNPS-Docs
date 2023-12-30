@@ -18,3 +18,6 @@
 
 [Slimefun的非官方中文Wiki](https://slimefun-wiki.guizhanss.cn/Slimefun-in-a-nutshell)
 
+## 搜索引擎
+
+\|    [百度](https://www.baidu.com)    |    [必应(Bing)](https://www.bing.com)    |    [谷歌(Google)](https://www.google.com)    |
