@@ -5,7 +5,7 @@ description: Welcome to HNPS Docs!
 # 👋 欢迎!
 
 {% hint style="info" %}
-在服务器游玩时，如遇问题，请现在本Wiki查询，或是在 [搜索引擎](you-qing-lian-jie.md#sou-suo-yin-qing) 上查询。如查询无果再联系管理人员
+在服务器游玩时，如遇问题，请先在本Wiki查询，或是在 [搜索引擎](you-qing-lian-jie.md#sou-suo-yin-qing) 上查询。如查询无果再联系管理人员
 {% endhint %}
 
 HaN's Private Server Docs (以下简称HNPS Docs) 是由 Na 在 简幻幻 上搭建的一个 Minecraft 服务器
