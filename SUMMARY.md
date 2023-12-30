@@ -2,8 +2,8 @@
 
 * [👋 欢迎!](README.md)
 * [🙏 赞助名单一览](zan-zhu-ming-dan-yi-lan.md)
-* [Warp点速览](warp-dian-su-lan.md)
-* [服务器玩家贡献一览](fu-wu-qi-wan-jia-gong-xian-yi-lan.md)
+* [⚡ Warp点速览](warp-dian-su-lan.md)
+* [🚧 服务器玩家贡献一览](fu-wu-qi-wan-jia-gong-xian-yi-lan.md)
 
 ## 进服方式
 
