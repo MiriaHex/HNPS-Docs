@@ -4,17 +4,20 @@ description: 下面列出了本服务器所使用的部分插件,排名不分先
 
 # 服务器插件一览
 
-* AuthMe
-* CoreProtect
-* eBackup
-* EssentialsX
-* Geyser - Spigot
+部分插件名可以快速链接到本Wiki的插件详细页面，你只需要轻触它们即可
+
+* [AuthMe](authme.md)
+* [CoreProtect](coreprotect.md)
+* [eBackup](ebackup.md)
+* [EssentialsX](essentialsx.md)
+* [Geyser - Spigot](geyser.md)
 * Geyser Hack
-* InventoryRollBackPlus
+* [InventoryRollBackPlus](inventoryrollbackplus.md)
 * LuckPerms
-* Slimefun
-* Residence
-* toNeko
+* [Slimefun](slimefun.md)
+* [SkinRestorer](skinrestorer.md)
+* [Residence](residence.md)
+* [toNeko](toneko.md)
 * Vault
 * ViaBackwards
 * WorldEdit

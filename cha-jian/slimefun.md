@@ -28,6 +28,6 @@ Slimefun (以下称为“粘液科技”)是一个大型插件。此处仅展示
 
 [粘液科技非官方中文Wiki](https://slimefun-wiki.guizhanss.cn/Slimefun-in-a-nutshell)
 
-## 引用
+## 注释
 
-¹2023年12月28日，[粘液科技非官方中文Wiki-入门](https://slimefun-wiki.guizhanss.cn/Getting-Started)
+¹引用：2023年12月28日，[粘液科技非官方中文Wiki-入门](https://slimefun-wiki.guizhanss.cn/Getting-Started)

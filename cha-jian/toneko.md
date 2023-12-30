@@ -36,6 +36,6 @@ description: 一个为服务器添加了有趣功能的小插件
 
 [toNeko插件GitHub仓库地址](https://github.com/CSneko/toNeko)
 
-## 引用
+## 注释
 
-¹2022年12月28日，[toNeko插件GitHub仓库Readme文档-命令&权限](https://github.com/CSneko/toNeko)
+¹引用：2022年12月28日，[toNeko插件GitHub仓库Readme文档-命令&权限](https://github.com/CSneko/toNeko)

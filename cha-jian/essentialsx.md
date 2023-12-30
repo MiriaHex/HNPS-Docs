@@ -56,6 +56,10 @@ description: Essentials的分支，继续维护已经停更的Essentials
 /warp [Warp点名称]
 ```
 
+{% hint style="info" %}
+你可以在[ Warp点速览](../warp-dian-su-lan.md) 中找到Warp点名称及其详情
+{% endhint %}
+
 ### 设置Home
 
 ```

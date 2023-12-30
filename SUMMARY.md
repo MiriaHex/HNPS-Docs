@@ -22,6 +22,7 @@
 * [InventoryRollbackPlus](cha-jian/inventoryrollbackplus.md)
 * [Residence](cha-jian/residence.md)
 * [Slimefun](cha-jian/slimefun.md)
+* [SkinRestorer](cha-jian/skinrestorer.md)
 * [toNeko](cha-jian/toneko.md)
 
 ***

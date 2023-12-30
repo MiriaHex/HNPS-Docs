@@ -7,7 +7,7 @@ description: CoreProtect是一款快速高效的方块操作历史记录的Bukki
 ## 命令
 
 {% hint style="info" %}
-此处仅列出了在本服务器上可用的命令，若要查看帮助文档，请参阅：
+此处仅列出了在本服务器上可用的命令，若要查看完整帮助文档，请参阅：
 
 [CoreProtect官方文档](https://docs.coreprotect.net/)
 {% endhint %}
