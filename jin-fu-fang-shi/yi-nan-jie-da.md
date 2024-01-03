@@ -10,7 +10,7 @@
 
 ## 基岩版为什么没有发光效果
 
-这是由于基岩版的限制造成的，详情参阅：Geyser官方Wiki-目前的限制
+这是由于基岩版的限制造成的，详情参阅：[Geyser官方Wiki-目前的限制](https://wiki.geysermc.org/geyser/current-limitations/)
 
 ## 提示''Disconnected from the server''
 

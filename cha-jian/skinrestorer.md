@@ -40,6 +40,6 @@ SkinRestorer的官方文档
 
 ²参考：2023年12月30日，[SkinRestorer官方文档-Commands and permissions-Commands-Player Commands](https://skinsrestorer.net/docs/configuration/commands-permissions#player-commands)
 
-³原文此处的方括号(\[])均为花括号({})，在编写此文是我们更改为了方括号(\[])
+³原文此处的方括号(\[])均为花括号({})，在编写此文时我们更改为了方括号(\[])
 
 ⁴原文此处的内容是英文的，我们使用了 [Google翻译](https://translate.google.com/) 将其翻译为 简体中文
