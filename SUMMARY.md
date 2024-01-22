@@ -4,6 +4,7 @@
 * [🙏 赞助名单一览](zan-zhu-ming-dan-yi-lan.md)
 * [⚡ Warp点速览](warp-dian-su-lan.md)
 * [🚧 服务器玩家贡献一览](fu-wu-qi-wan-jia-gong-xian-yi-lan.md)
+* [🖼 画廊](hua-lang.md)
 
 ## 进服方式
 
@@ -16,6 +17,7 @@
 * [服务器插件一览](cha-jian/fu-wu-qi-cha-jian-yi-lan.md)
 * [AuthMe](cha-jian/authme.md)
 * [CoreProtect](cha-jian/coreprotect.md)
+* [ChatColor](cha-jian/chatcolor.md)
 * [EssentialsX](cha-jian/essentialsx.md)
 * [eBackup](cha-jian/ebackup.md)
 * [Geyser](cha-jian/geyser.md)

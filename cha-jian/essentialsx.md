@@ -116,6 +116,22 @@ description: Essentials的分支，继续维护已经停更的Essentials
 /afk
 ```
 
+## 查看礼包(Kit)
+
+```
+/kits
+```
+
+## 领取礼包(Kit)
+
+```
+/kit [礼包名字]
+```
+
+{% hint style="info" %}
+你可以前往 [疑难解答-礼包领取](../jin-fu-fang-shi/yi-nan-jie-da.md#ru-he-ling-qu-li-bao-kit) 查看礼包领取教程
+{% endhint %}
+
 ***
 
 ## 友情链接

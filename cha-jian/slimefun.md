@@ -7,7 +7,14 @@ Slimefun (以下称为“粘液科技”)是一个大型插件。此处仅展示
 ### 服务器粘液科技总览
 
 ```
-总共加载 9584 物品，已安装 21 插件
+######################### - Slimefun veabaa21-Beta - #########################
+
+成功加载了 10222 个物品和 358 个研究
+( 556 物品来自本体, 9666 个物品来自 30 扩展 )
+
+
+- 源码:      https://github.com/StarWishsama/Slimefun4
+- Bug 反馈:  https://github.com/StarWishsama/Slimefun4/issues 
 ```
 
 ### 万物起源

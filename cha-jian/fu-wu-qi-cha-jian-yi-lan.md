@@ -8,6 +8,7 @@ description: 下面列出了本服务器所使用的部分插件,排名不分先
 
 * [AuthMe](authme.md)
 * [CoreProtect](coreprotect.md)
+* ChatColor
 * [eBackup](ebackup.md)
 * [EssentialsX](essentialsx.md)
 * [Geyser - Spigot](geyser.md)

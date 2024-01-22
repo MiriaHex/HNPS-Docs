@@ -12,6 +12,8 @@
 
 [CoreProtect 的Mineplugin页面](https://mineplugin.org/CoreProtect)
 
+[ChatColor的官方Bukkit页面](https://dev.bukkit.org/projects/chatcolor-s)
+
 [Geyser官方Wiki](https://wiki.geysermc.org/)
 
 [EssentialsX的Mineplugin页面](https://mineplugin.org/Essentials)

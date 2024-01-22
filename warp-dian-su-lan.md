@@ -2,10 +2,10 @@
 description: 不区分大小写，排名不分先后
 ---
 
-# Warp点速览
+# ⚡ Warp点速览
 
-{% hint style="info" %}
-页面正在不断更新中
+{% hint style="danger" %}
+Warp点将逐渐改为中文名，此页面即将弃用
 {% endhint %}
 
 Sakura //桃花源
