@@ -4,7 +4,12 @@
 * [🙏 赞助名单一览](zan-zhu-ming-dan-yi-lan.md)
 * [⚡ Warp点速览](warp-dian-su-lan.md)
 * [🚧 服务器玩家贡献一览](fu-wu-qi-wan-jia-gong-xian-yi-lan.md)
-* [🖼 画廊](hua-lang.md)
+* [🖼 画廊](hua-lang/README.md)
+  * [合照](hua-lang/he-zhao.md)
+  * [三人照](hua-lang/san-ren-zhao.md)
+  * [双人照](hua-lang/shuang-ren-zhao.md)
+  * [单人照](hua-lang/dan-ren-zhao.md)
+  * [服务器景观](hua-lang/fu-wu-qi-jing-guan.md)
 
 ## 进服方式
 

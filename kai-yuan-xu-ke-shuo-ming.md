@@ -1,4 +1,4 @@
-# 开源许可说明
+# 📔 开源许可说明
 
 本文遵循 **`Creative Commons Attribution Share Alike 4.0 International`** 协议进行开源
 
