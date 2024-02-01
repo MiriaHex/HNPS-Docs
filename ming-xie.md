@@ -10,13 +10,13 @@ Na¹ //本文的策划,也是主要编辑人员
 
 MooranStar //为本文提供了思路引导,拯救了毫无编写头绪的策划
 
-NaOH Technology Lab //提供了域名服务,尽管在本文编辑时尚未完成购买...
+NaOH Technology Lab //提供了域名服务,尽管在本文编辑时尚未完成配置...
 
 ### 测试人员
 
 Na
 
-MooranStar
+MoonranStar
 
 MuteLy
 

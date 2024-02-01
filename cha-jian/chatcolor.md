@@ -4,7 +4,9 @@ description: 让你的聊天文字 五彩斑斓
 
 # ChatColor
 
-
+{% hint style="warning" %}
+由于插件无法正常工作，已从服务器移除
+{% endhint %}
 
 {% hint style="info" %}
 此处仅列出服务器上常用且可用的命令，如需查看完整文档，请参阅：
@@ -44,8 +46,10 @@ description: 让你的聊天文字 五彩斑斓
 
 ## 注释
 
-¹原文此处的内容是英文的，我们使用了 Microsoft Edge浏览器自带翻译 将其翻译为 简体中文，如需原文，可查看 ChatColor的Bukkit页面
+¹原文此处的内容是英文的，我们使用了 Microsoft Edge浏览器自带翻译 将其翻译为 简体中文，如需原文，可查看 [ChatColor的Bukkit页面](https://dev.bukkit.org/projects/chatcolor-s)
 
-²引用：2024年1月22日，ChatColor的官方Bukkit页面
+²引用：2024年1月22日，[ChatColor的官方Bukkit页面](https://dev.bukkit.org/projects/chatcolor-s)
 
 ## 友情链接
+
+[ChatColor的官方Bukkit页面](https://dev.bukkit.org/projects/chatcolor-s)

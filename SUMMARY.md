@@ -23,6 +23,7 @@
 * [AuthMe](cha-jian/authme.md)
 * [CoreProtect](cha-jian/coreprotect.md)
 * [ChatColor](cha-jian/chatcolor.md)
+* [mcMMO](cha-jian/mcmmo.md)
 * [EssentialsX](cha-jian/essentialsx.md)
 * [eBackup](cha-jian/ebackup.md)
 * [Geyser](cha-jian/geyser.md)

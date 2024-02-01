@@ -4,6 +4,12 @@ description: Welcome to HNPS Docs!
 
 # 👋 欢迎!
 
+{% hint style="success" %}
+本站已启用新域名：[docs.hzokana.top ](#user-content-fn-1)[^1]&#x20;
+
+同时，HNPS Stats已启用新域名：stats.hzokana.top[^2] ，且旧域名 www.hzokana.top 已经停用
+{% endhint %}
+
 {% hint style="info" %}
 在服务器游玩时，如遇问题，请先在本Wiki查询，或是在 [搜索引擎](you-qing-lian-jie.md#sou-suo-yin-qing) 上查询。如查询无果再联系管理人员
 {% endhint %}
@@ -29,3 +35,7 @@ Minecraft Java 1.20.2 Paper Build#318 Geyser2.20(Snapshot)
 ```
 1.20.0-1.20.5
 ```
+
+[^1]: 
+
+[^2]: 
