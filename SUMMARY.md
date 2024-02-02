@@ -10,6 +10,11 @@
   * [双人照](hua-lang/shuang-ren-zhao.md)
   * [单人照](hua-lang/dan-ren-zhao.md)
   * [服务器景观](hua-lang/fu-wu-qi-jing-guan.md)
+* [🏵 服务器活动速览](fu-wu-qi-huo-dong-su-lan/README.md)
+  * [🗃 已归档的活动](fu-wu-qi-huo-dong-su-lan/yi-gui-dang-de-huo-dong.md)
+  * [💮 2024新年特别活动](fu-wu-qi-huo-dong-su-lan/2024-xin-nian-te-bie-huo-dong.md)
+* [🏗 服务器发行说明](fu-wu-qi-fa-hang-shuo-ming/README.md)
+  * [🗃 已归档的发行说明](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming.md)
 
 ## 进服方式
 
