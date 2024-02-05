@@ -11,10 +11,17 @@
   * [单人照](hua-lang/dan-ren-zhao.md)
   * [服务器景观](hua-lang/fu-wu-qi-jing-guan.md)
 * [🏵 服务器活动速览](fu-wu-qi-huo-dong-su-lan/README.md)
-  * [🗃 已归档的活动](fu-wu-qi-huo-dong-su-lan/yi-gui-dang-de-huo-dong.md)
+  * [🗃 已归档的活动](fu-wu-qi-huo-dong-su-lan/yi-gui-dang-de-huo-dong/README.md)
+    * [☃ 2024雪日庆祝活动](fu-wu-qi-huo-dong-su-lan/yi-gui-dang-de-huo-dong/2024-xue-ri-qing-zhu-huo-dong.md)
   * [💮 2024新年特别活动](fu-wu-qi-huo-dong-su-lan/2024-xin-nian-te-bie-huo-dong.md)
 * [🏗 服务器发行说明](fu-wu-qi-fa-hang-shuo-ming/README.md)
-  * [🗃 已归档的发行说明](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming.md)
+  * [🗃 已归档的发行说明](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming/README.md)
+    * [1.27](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming/1.27.md)
+    * [1.26](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming/1.26.md)
+    * [1.24](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming/1.24.md)
+    * [1.22](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming/1.22.md)
+    * [1.22](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming/1.22-1.md)
+  * [⏳ 正在进行的维护：空](fu-wu-qi-fa-hang-shuo-ming/zheng-zai-jin-hang-de-wei-hu-kong.md)
 
 ## 进服方式
 

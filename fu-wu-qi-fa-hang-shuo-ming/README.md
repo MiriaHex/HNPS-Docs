@@ -8,4 +8,4 @@ description: 就是维护信息啦
 
 暂无正在进行的维护
 
-在 [已归档的发行说明 ](yi-gui-dang-de-fa-hang-shuo-ming.md)页面查看已完成的维护
+在 [已归档的发行说明 ](yi-gui-dang-de-fa-hang-shuo-ming/)页面查看已完成的维护

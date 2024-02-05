@@ -12,4 +12,4 @@ description: 想看看最近有什么活动吗？来对地方了
 
 [2024新年特别活动](2024-xin-nian-te-bie-huo-dong.md)
 
-访问 [已归档的活动](yi-gui-dang-de-huo-dong.md) 页面，查看已完成的活动
+访问 [已归档的活动](yi-gui-dang-de-huo-dong/) 页面，查看已完成的活动
