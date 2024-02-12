@@ -4,8 +4,8 @@
 活动时间：2月2日 - 2月11日
 {% endhint %}
 
-{% hint style="success" %}
-活动可用：正在进行中
+{% hint style="info" %}
+活动已归档：活动结束
 {% endhint %}
 
 ## 自 2月2日 起

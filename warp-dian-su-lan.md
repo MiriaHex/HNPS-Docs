@@ -4,8 +4,10 @@ description: 不区分大小写，排名不分先后
 
 # ⚡ Warp点速览
 
-{% hint style="danger" %}
-Warp点将逐渐改为中文名，此页面即将弃用
+{% hint style="warning" %}
+页面已过期 - 上一次更新于 2023年12月
+
+无法保证本页面内容时效性，请等待更新
 {% endhint %}
 
 Sakura //桃花源
