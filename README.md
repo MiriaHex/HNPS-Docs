@@ -5,7 +5,7 @@ description: Welcome to HNPS Docs!
 # 👋 欢迎!
 
 {% hint style="success" %}
-Wiki最近活跃于：2月12日 | 内容可用&#x20;
+Wiki最近活跃于：2月24日 | 内容可用&#x20;
 {% endhint %}
 
 {% hint style="success" %}
