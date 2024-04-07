@@ -8,7 +8,7 @@ description: 下面列出了本服务器所使用的部分插件,排名不分先
 
 * [AuthMe](authme.md)
 * [CoreProtect](coreprotect.md)
-* mcMMO
+* [mcMMO](mcmmo.md)
 * [eBackup](ebackup.md)
 * [EssentialsX](essentialsx.md)
 * [Geyser - Spigot](geyser.md)
@@ -20,6 +20,7 @@ description: 下面列出了本服务器所使用的部分插件,排名不分先
 * [Residence](residence.md)
 * [toNeko](toneko.md)
 * Vault
+* ViaVersion&#x20;
 * ViaBackwards
 * WorldEdit
 

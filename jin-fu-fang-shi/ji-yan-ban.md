@@ -12,7 +12,7 @@
 
 如你已有微软账号，请查看：[登录微软账号](ji-yan-ban.md#deng-lu-wei-ruan-zhang-hao)
 
-1. 前往[Xbox站点](https://www.xbox.com)
+1. 前往 [Xbox站点](https://www.xbox.com)
 2. 单击头像，选择“注册”
 3. 填写你的账号信息
 4. 设置生日

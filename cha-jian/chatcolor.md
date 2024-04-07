@@ -4,8 +4,10 @@ description: 让你的聊天文字 五彩斑斓
 
 # ChatColor
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 由于插件无法正常工作，已从服务器移除
+
+此页面不再可用
 {% endhint %}
 
 {% hint style="info" %}
