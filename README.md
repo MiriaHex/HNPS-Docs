@@ -4,14 +4,10 @@ description: Welcome to HNPS Docs!
 
 # 👋 欢迎!
 
-{% hint style="success" %}
-Wiki最近活跃于：4月7日 | 内容可用&#x20;
-{% endhint %}
+{% hint style="warning" %}
+Wiki最近活跃于：5月19日
 
-{% hint style="success" %}
-本站已启用新域名：[docs.hzokana.top ](#user-content-fn-1)[^1]&#x20;
-
-同时，HNPS Stats已启用新域名：stats.hzokana.top[^2] ，且旧域名 www.hzokana.top 已经停用
+受工作影响，文档更新可能极慢
 {% endhint %}
 
 {% hint style="warning" %}
@@ -51,9 +47,11 @@ Minecraft Java 1.20.2 Paper Build#318 Geyser2.20(Snapshot)
 ## 镜像服端口
 
 ```
-25896
+26368
 ```
 
-[^1]: 
+## 小游戏服端口
 
-[^2]: 
+```
+32092
+```
