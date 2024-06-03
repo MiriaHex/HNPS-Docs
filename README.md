@@ -10,7 +10,13 @@ Wiki最近活跃于：5月19日
 受工作影响，文档更新可能极慢
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="danger" %}
+为迎接大考，本服务器暂时关闭，期间无法连接
+
+预计恢复时间：6月20日
+{% endhint %}
+
+{% hint style="info" %}
 在服务器游玩时，如遇问题，请先在本Wiki查询，或在 [搜索引擎](you-qing-lian-jie.md#sou-suo-yin-qing) 上查询。
 
 如查询无果再联系管理人员
