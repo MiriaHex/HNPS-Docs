@@ -25,6 +25,7 @@
         * [1.22](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming/2024/1-yue/1.22.md)
         * [1.22](fu-wu-qi-fa-hang-shuo-ming/yi-gui-dang-de-fa-hang-shuo-ming/2024/1-yue/1.22-1.md)
   * [⏳ 最近进行的维护](fu-wu-qi-fa-hang-shuo-ming/zui-jin-jin-hang-de-wei-hu.md)
+  * [🗓️ 规划的维护](fu-wu-qi-fa-xing-shuo-ming/gui-hua-de-wei-hu.md)
 
 ## 进服方式
 
