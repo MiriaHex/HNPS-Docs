@@ -8,20 +8,6 @@
 
 [粘液科技非官方中文Wiki](https://slimefun-wiki.guizhanss.cn/Slimefun-in-a-nutshell)
 
-[CoreProtect官方文档](https://docs.coreprotect.net/)
-
-[CoreProtect 的Mineplugin页面](https://mineplugin.org/CoreProtect)
-
-[ChatColor的官方Bukkit页面](https://dev.bukkit.org/projects/chatcolor-s)
-
-[Geyser官方Wiki](https://wiki.geysermc.org/)
-
-[EssentialsX的Mineplugin页面](https://mineplugin.org/Essentials)
-
-[Slimefun的非官方中文Wiki](https://slimefun-wiki.guizhanss.cn/Slimefun-in-a-nutshell)
-
-[SkinRestorer的官方文档](https://skinsrestorer.net/docs)
-
 ## 搜索引擎
 
 在本Wiki查询无果后，请尝试在以下搜索引擎进行搜索
