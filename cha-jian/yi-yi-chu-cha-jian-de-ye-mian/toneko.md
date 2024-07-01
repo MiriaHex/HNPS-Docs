@@ -4,6 +4,10 @@ description: 一个为服务器添加了有趣功能的小插件
 
 # toNeko
 
+{% hint style="warning" %}
+插件已被移除
+{% endhint %}
+
 ### 命令¹
 
 {% code fullWidth="false" %}

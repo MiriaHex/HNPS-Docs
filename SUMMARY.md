@@ -47,7 +47,9 @@
 * [Residence](cha-jian/residence.md)
 * [Slimefun](cha-jian/slimefun.md)
 * [SkinRestorer](cha-jian/skinrestorer.md)
-* [toNeko](cha-jian/toneko.md)
+* [MarriageMaster](cha-jian/marriagemaster.md)
+* [🗑️ 已移除插件的页面](cha-jian/yi-yi-chu-cha-jian-de-ye-mian/README.md)
+  * [toNeko](cha-jian/yi-yi-chu-cha-jian-de-ye-mian/toneko.md)
 
 ***
 
