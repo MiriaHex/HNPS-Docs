@@ -12,7 +12,9 @@ MooranStar //为本文提供了思路引导,拯救了毫无编写头绪的策划
 
 NaOH Technology Lab //提供了域名服务,尽管在本文编辑时尚未完成配置...
 
-只因悠悠MC创造服务器 //帮助我们构建了 mcMMO 插件 ，你可以在 [此处](you-qing-lian-jie.md) 找到加入他们的服务器方法
+只因悠悠MC创造服务器 //帮助我们构建了 mcMMO 插件&#x20;
+
+and, [<mark style="background-color:green;">**You**</mark>](#user-content-fn-1)[^1]
 
 ### 测试人员
 
@@ -37,3 +39,5 @@ xinFurld
 ## 注释
 
 ¹因不可抗因素，此处使用了缩略名。你可以前往GitHub存储库上查看本项目的所有者，他(她)与Na是同一人
+
+[^1]: 

@@ -1,16 +1,24 @@
 ---
-description: Welcome to HNPS Docs!
+description: 这是这条路的起点，也是这条路的终点
 ---
 
 # 👋 欢迎!
 
-{% hint style="info" %}
-Wiki最近活跃于：7月1日
+{% hint style="success" %}
+Wiki最近活跃于 | **2024年 8月6日**
 
-受工作影响，文档更新可能极慢
+Wiki当前版本     | **The Final Update**
+
+此文档的工作对象已结束，将来不再会有新内容更新
+
+如您正在查找新项目的文档，请前往Mirisa Docs(尚未完成)
 {% endhint %}
 
-HaN's Private Server Docs (以下简称HNPS Docs) 是由 Na 在 简幻欢 上搭建的一个 Minecraft 服务器
+HNPS Project 是一个服务器项目，为服主的好友们而搭建
+
+HNPS Project 是私人项目，不会对外公开加入
+
+HNPS Project 的持续活跃离不开 简幻欢4.0 项目
 
 单击侧栏的分类查看其它选项,或是在下面快速查阅服务器信息
 
@@ -31,21 +39,3 @@ Paper version 1.20.6-147-ver/1.20.6@e41d44f (2024-06-17T19:24:35Z)
 ```
 1.20.80/1.20.81 - 1.21.0/1.20.1
 ```
-
-## 服务器端口
-
-{% hint style="info" %}
-暂不公布
-{% endhint %}
-
-## 镜像服端口
-
-{% hint style="info" %}
-暂不公布
-{% endhint %}
-
-## 小游戏服端口
-
-{% hint style="warning" %}
-因 托管平台问题 ，小游戏服暂时无法搭建/开启
-{% endhint %}
