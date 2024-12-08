@@ -29,7 +29,7 @@
 最终，你的服务器地址看起来应该是这样的：
 
 ```
-example.com:port
+example.domain:port
 ```
 
 ## 注册服务器账号
