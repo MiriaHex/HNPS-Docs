@@ -9,6 +9,8 @@ Wiki最近活跃于 | **2024年 12月8日**
 
 Wiki当前版本     | **The Final Update**
 
+Wiki当前状态     | **Archived**
+
 此文档的工作对象已结束，将来不再会有新内容更新
 
 如您正在查找新项目的文档，请前往ReDream Docs(尚未完成)
